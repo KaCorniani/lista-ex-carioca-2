@@ -9,3 +9,4 @@ int[] y = new int[10];
             {
                 y[i] = x[i] * x[i];
                 Console.WriteLine("Vetor 1: {0}\nVetor 2: {1}\n\n", x[i], y[i]);
+            }
